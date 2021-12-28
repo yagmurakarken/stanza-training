@@ -1,5 +1,5 @@
 # stanza-training
-During training, we followed the published [stanza-train repo] (https://github.com/stanfordnlp/stanza-train) and [training document] (https://stanfordnlp.github.io/stanza/training.html) to facilitate the process.\
+During training, we followed the published [stanza-train repo](https://github.com/stanfordnlp/stanza-train) and [training documnet](https://stanfordnlp.github.io/stanza/training.html) to facilitate the process.\
 After cloning the Stanza-train repo, we set up the necessary folders and scripts using the following commands as stated in the steps.
 
 ```
